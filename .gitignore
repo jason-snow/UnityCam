@@ -34,3 +34,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+__out/
+UnityWebcam/UnityWebcam/Debug/
+UnityWebcam/_build/
